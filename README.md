@@ -1,4 +1,5 @@
 # FragezeichenArchiv
+<img src="https://raw.githubusercontent.com/redretep/archiv/main/cover.jpg" width="100%">
 
 Ein moderner Web-Audioplayer, der automatisch die drei Fragezeichen Folgen von [archive.org](https://archive.org) lädt und in einer GitHub Seite darstellt. Die Metadaten der Folgen werden von [dreimetadaten](https://dreimetadaten.de) genommen.
 
